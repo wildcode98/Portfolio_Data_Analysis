@@ -1,3 +1,5 @@
+--Data collected from source https://ourworldindata.org/covid-deaths
+
 select * 
 from PortfolioProject..CovidDeaths
 order by 3,4;
